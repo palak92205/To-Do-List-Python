@@ -1,2 +1,17 @@
-# To-Do-List-Python
-A simple To-Do List application developed using Python.
+# To-Do List (Python)
+
+## Features
+- Add Task
+- View Tasks
+- Update Task
+- Delete Task
+- Exit
+
+## Language Used
+- Python
+
+## How to Run
+
+```bash
+python todo.py
+```
